@@ -10,7 +10,7 @@ People who would be interested in this project include business owners or invest
 
 Since we will be clustering Vancouver neighbourhoods and venues based on patterns in the data, it will reveal some interesting niches that exist within the city. As a local, I can also give some perspective on why these trends appear from knowledge outside the data. This data science approach can be applied to any other city as well. Please extend this report to other cities if you can!
 
-## Data
+## Data 
 
 Data was taken from the [Open Data Catalogue](https://vancouver.ca/your-government/open-data-catalogue.aspx) provided by the City of Vancouver. Initially, there was actually a lot of bulk introduced by the Census data which I cleaned up to only hold financial and quantative information. I did not want to introduce language into the mix because I knew Chinese and English would skew the data too intensely. Knowing this, I decided to only keep track of the neighbourhoods and corresponding financial information for my data. I plotted the locations of these neighbourhoods onto a map.
 
